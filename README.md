@@ -1,5 +1,5 @@
 # Notepad3 Color Theme
-18 Color themes of the Notepad3.
+18 Color themes of the [Notepad3](https://github.com/rizonesoft/Notepad3).
 
 ## Usage
 Download the ZIP (green button) or individual RAW `.ini` files.  Please use import function in color setting. Or, Place this `.ini` files into `themes` folder with Notepad3 not running. 
