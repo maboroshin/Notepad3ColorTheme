@@ -7,6 +7,7 @@ Download the ZIP (green button) or individual RAW `.ini` files.  Please use impo
 配色設定のインポートを使用してください。ZIP (緑のボタン) か個々の ini ファイルの RAW をダウンロードする。または Notepad3 が終了した状態で `ini` ファイルを`themes` フォルダに入れる。
 
 ## Themes sample
+- [Absinthe](https://github.com/maboroshin/Absinthe.color) (My original theme)
 - [Solarized](https://github.com/altercation/solarized#solarized)
 - [ICEBERG](https://github.com/cocopon/iceberg.vim#readme)
 - [Dracula](https://github.com/dracula/dracula-theme#color-palette)
